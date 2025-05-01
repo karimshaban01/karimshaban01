@@ -83,13 +83,26 @@ Here are some of the projects I've been working on:
 
 ---
 
-### 📫 Let's Connect
+## 📫 Connect With Me
 
-- 📧 Email: [karimharuna22@gmail.com](mailto:karimharuna22@gmail.com)
-- 💼 LinkedIn: [Karim Shaban](https://www.linkedin.com/in/karim-shaban-b58897149/)
-- 🐦 Twitter: [@OficialKareem](https://x.com/OficialKareem)
-- 📸 Instagram: [karimharuna_22](https://www.instagram.com/karimharuna_22)
-- 👥 Facebook: [Karim Haruna](https://www.facebook.com/profile.php?id=61568413479201)
+<p align="center">
+  <a href="https://www.linkedin.com/in/karim-shaban-b58897149" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/karimshaban01" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://x.com/OficialKareem" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/karimharuna_22" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61568413479201" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
+
 
 ---
 
