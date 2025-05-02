@@ -73,6 +73,16 @@ Here are some of the projects I've been working on:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimshaban01&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karimshaban01&bg_color=0f2027&color=00ffff&line=00bfff&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
+</p>
+
+<!-- Visitor Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karimshaban01&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Badge"/>
+</p>
+
 ---
 
 ### 🎯 Goals
@@ -102,7 +112,6 @@ Here are some of the projects I've been working on:
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </p>
-
 
 ---
 
