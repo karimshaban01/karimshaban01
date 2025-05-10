@@ -100,7 +100,7 @@ Here are some of the projects I've been working on:
 
   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="karim-haruna-b58897149" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://github.com/karimshaban01"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ99rRvsvKE2qN5gcmN-sSogA2NMkO2eg3qcUVR_eC9vl4tyO_p17yZiwgtaVvdh1lhgo&usqp=CAU" alt="GitHub"></a></div>
 
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="karim-haruna-b58897149" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://x.com/OficialKareem"><img src="https://icon2.cleanpng.com/20240119/rp/transparent-x-logo-cross-design-black-and-white-photograph-sim-black-and-white-cross-with-letters-x-and-1710898892931.webp" alt="GitHub"></a></div>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="karim-haruna-b58897149" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://x.com/OficialKareem"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/250px-X_logo.jpg" alt="GitHub"></a></div>
               
 
   <a href="" target="_blank">
