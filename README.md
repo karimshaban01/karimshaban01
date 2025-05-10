@@ -87,7 +87,7 @@ Here are some of the projects I've been working on:
 
 ### 🎯 Goals
 
-- **2025**: Solving real-world problems.
+- **2025**: Building softwares and automated solution for solving real-world problems.
 - **2026**: Launch cloud services side project with open-source softwares.
 - **2027 and beyond**: Continue building AI-powered tools, publish researches, and mentor others in the community.
 
