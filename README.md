@@ -100,7 +100,7 @@ Here are some of the projects I've been working on:
 
   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="karim-haruna-b58897149" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://github.com/karimshaban01"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ99rRvsvKE2qN5gcmN-sSogA2NMkO2eg3qcUVR_eC9vl4tyO_p17yZiwgtaVvdh1lhgo&usqp=CAU" alt="GitHub"></a></div>
 
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="karim-haruna-b58897149" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://x.com/OficialKareem"><img src="https://www.google.com/imgres?q=x%20logo&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fnew-twitter-logo-x-icon-black-background_1017-45427.jpg%3Fsemt%3Dais_hybrid%26w%3D740&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fx-logo&docid=GvTzEXG6NTOsbM&tbnid=ZXVRJQFtLR0ZIM&vet=12ahUKEwirgNaYrZmNAxX7SaQEHRj4CiMQM3oECBoQAA..i&w=740&h=740&hcb=2&ved=2ahUKEwirgNaYrZmNAxX7SaQEHRj4CiMQM3oECBoQAA" alt="GitHub"></a></div>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="karim-haruna-b58897149" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://x.com/OficialKareem"><img src="https://icon2.cleanpng.com/20240119/rp/transparent-x-logo-cross-design-black-and-white-photograph-sim-black-and-white-cross-with-letters-x-and-1710898892931.webp" alt="GitHub"></a></div>
               
 
   <a href="" target="_blank">
