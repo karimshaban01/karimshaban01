@@ -96,9 +96,8 @@ Here are some of the projects I've been working on:
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/karim-shaban-b58897149" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="karim-haruna-b58897149" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tz.linkedin.com/in/karim-haruna-b58897149?trk=profile-badge">karim haruna</a></div>
+              
   <a href="https://github.com/karimshaban01" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
