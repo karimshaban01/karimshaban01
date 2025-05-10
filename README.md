@@ -87,9 +87,9 @@ Here are some of the projects I've been working on:
 
 ### 🎯 Goals
 
-- **2025**: Complete Master's thesis in Computer Vision and contribute to open-source ML libraries.
-- **2026**: Launch an AR/VR side project and explore GAN research.
-- **2027 and beyond**: Continue building ML-powered tools, publish research, and mentor others in the community.
+- **2025**: Solving real-world problems.
+- **2026**: Launch cloud services side project with open-source softwares.
+- **2027 and beyond**: Continue building AI-powered tools, publish researches, and mentor others in the community.
 
 ---
 
