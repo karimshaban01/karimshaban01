@@ -96,23 +96,32 @@ Here are some of the projects I've been working on:
 ## 📫 Connect With Me
 
 <p align="center">
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="karim-haruna-b58897149" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tz.linkedin.com/in/karim-haruna-b58897149?trk=profile-badge"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Jr3IvJraO1wfsdEFoHuQwHYuHrmRdNP0AA&s" alt="GitHub"></a></div>
-
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="karim-haruna-b58897149" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://github.com/karimshaban01"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ99rRvsvKE2qN5gcmN-sSogA2NMkO2eg3qcUVR_eC9vl4tyO_p17yZiwgtaVvdh1lhgo&usqp=CAU" alt="GitHub"></a></div>
-
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="karim-haruna-b58897149" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://x.com/OficialKareem"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/250px-X_logo.jpg" alt="GitHub"></a></div>
-              
-
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://tz.linkedin.com/in/karim-haruna-b58897149" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/karimshaban01" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://x.com/OficialKareem" target="_blank">
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)">
   </a>
   <a href="https://www.instagram.com/karimharuna_22" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.facebook.com/profile.php?id=61568413479201" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://devpost.com/karimharuna" target="_blank">
+    <img src="https://img.shields.io/badge/-Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost">
+  </a>
+  <a href="https://dev.to/karimharuna" target="_blank">
+    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
+  </a>
+  <a href="https://stackoverflow.com/users/karim-haruna" target="_blank">
+    <img src="https://img.shields.io/badge/-StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
   </a>
 </p>
+
 
 ---
 
