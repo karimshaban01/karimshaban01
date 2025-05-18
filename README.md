@@ -96,18 +96,6 @@ Here are some of the projects I've been working on:
 
 ---
 
-### 📈 More GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karimshaban01&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karimshaban01&theme=radical" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimshaban01&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
