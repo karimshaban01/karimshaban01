@@ -83,6 +83,54 @@ Here are some of the projects I've been working on:
   <img src="https://komarev.com/ghpvc/?username=karimshaban01&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Badge"/>
 </p>
 
+
+<!-- ... keep your existing content above ... -->
+
+---
+
+### 📊 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karimshaban01&theme=radical&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 📈 More GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karimshaban01&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karimshaban01&theme=radical" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimshaban01&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/karimshaban01/karimshaban01/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</p>
+
+---
+
+### ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!-- You can enable GitHub Activity by using the GitHub Actions workflow from https://github.com/Readme-Workflows/Readme-Activity -->
+<!--END_SECTION:activity-->
+
+---
+
+### 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karimshaban01/karimshaban01/github-metrics/github-metrics.svg" alt="GitHub Metrics"/>
+</p>
+
+
 ---
 
 ### 🎯 Goals
