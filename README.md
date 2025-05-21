@@ -1,4 +1,4 @@
-<!-- GitHub Profile README for Karim Haruna --> 
+<!-- GitHub Profile README for Karim Haruna -->
 
 <!-- Header Banner -->
 <p align="center">
