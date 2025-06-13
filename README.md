@@ -115,11 +115,11 @@ Here are some of the projects I've been working on:
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karimshaban01/github-metrics/github-metrics.svg" alt="GitHub Metrics"/>
+  <img src="https://github-metrics.vercel.app/api/metrics?username=karimshaban01&template=classic&base.header=true&base.activity=true&base.community=true&base.repositories=true&config.timezone=Africa%2FDar_es_Salaam" alt="GitHub Metrics"/>
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/tanzania/USERNAME.svg)](https://user-badge.committers.top/tanzania/karimshaban01)
 
+[![committers.top badge](https://user-badge.committers.top/tanzania/karimshaban01.svg)](https://user-badge.committers.top/tanzania/karimshaban01)
 
 ---
 
