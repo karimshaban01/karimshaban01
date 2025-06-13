@@ -118,6 +118,8 @@ Here are some of the projects I've been working on:
   <img src="https://raw.githubusercontent.com/karimshaban01/karimshaban01/github-metrics/github-metrics.svg" alt="GitHub Metrics"/>
 </p>
 
+[![committers.top badge](https://user-badge.committers.top/tanzania/USERNAME.svg)](https://user-badge.committers.top/tanzania/karimshaban01)
+
 
 ---
 
