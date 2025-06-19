@@ -149,7 +149,7 @@ Here are some of the projects I've been working on:
   <a href="https://www.facebook.com/profile.php?id=61568413479201" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://devpost.com/karimharuna" target="_blank">
+  <a href="https://devpost.com/karimshaban01" target="_blank">
     <img src="https://img.shields.io/badge/-Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost">
   </a>
   <a href="https://dev.to/karimharuna" target="_blank">
