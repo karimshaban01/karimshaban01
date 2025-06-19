@@ -152,7 +152,7 @@ Here are some of the projects I've been working on:
   <a href="https://devpost.com/karimshaban01" target="_blank">
     <img src="https://img.shields.io/badge/-Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost">
   </a>
-  <a href="https://dev.to/karimharuna" target="_blank">
+  <a href="https://dev.to/karimshaban01" target="_blank">
     <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
   </a>
   <a href="https://stackoverflow.com/users/karim-haruna" target="_blank">
